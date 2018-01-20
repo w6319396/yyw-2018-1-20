@@ -1,0 +1,12 @@
+#app{
+    background-color: silver;
+    height: 500px;
+    width: 250px;
+}
+textarea{
+
+}
+#app>.btn{
+   height: 50px;
+   width: 59px;
+}
